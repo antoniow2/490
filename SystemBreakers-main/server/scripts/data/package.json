@@ -1,7 +1,0 @@
-{
-    "type": "module",
-    "scripts": {
-      "start": "node your_script.js"
-    }
-  }
-  
